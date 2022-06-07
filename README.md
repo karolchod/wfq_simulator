@@ -2,6 +2,7 @@
 Simulation of WFQ network scheduling algorithm.
 
 ## General info
+![schema](schema.png) <br>
 The goal of this project is to model a Weighted Fair Queueing (WFQ) system for two sources of packet inflow. <br>
 The first is an inflow with Poisson distribution with constant or exponential packet size. <br>
 The second is a constant bit rate (CBR) inflow with a fixed packet size. <br>
